@@ -51,7 +51,6 @@ RealEstate-Analytics/
 📖 How to Use
 	1.	Clone this repository:
 
-git clone https://github.com/yourusername/realestate-analytics.git
 cd realestate-analytics
 
 
